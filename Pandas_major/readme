@@ -60,7 +60,7 @@ Pandas library
 
 Installation: 
 1.Clone the repository: git clone https://github.com/poojivelu/Pandas.git
-cd Pandas_Project
+cd Pandas
 
 2.Install dependencies: pip install Pandas jupyter
 Running the Notebook 
@@ -68,7 +68,8 @@ Option 1: Jupyter Notebook jupyter notebook Pandas_project.ipynb
 Option 2: JupyterLab jupyter lab Pandas_project.ipynb
 Option 3: Google Colab 
 1.Upload the .ipynb file to Google Drive 
-2.Open with Google Colab 3.Run all cells (Runtime → Run all)
+2.Open with Google Colab 
+3.Run all cells (Runtime → Run all)
 Option 4: VS Code 
 1.Install Python and Jupyter extensions 
 2.Open the .ipynb file 
@@ -100,3 +101,4 @@ Pandas, NumPy, Matplotlib docs, FreeCodeCamp Python Data Analysis course, and Go
 
 
 Happy Learning! 🎓
+
