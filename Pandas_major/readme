@@ -59,7 +59,7 @@ Jupyter Notebook or JupyterLab
 Pandas library
 
 Installation: 
-1.Clone the repository: git clone https://github.com/poojivelu/Pandas_Project.git
+1.Clone the repository: git clone https://github.com/poojivelu/Pandas.git
 cd Pandas_Project
 
 2.Install dependencies: pip install Pandas jupyter
@@ -96,6 +96,7 @@ Pandas documentation and community Jupyter Project for the amazing notebook  Kag
 
 📚 Additional Resources:
 Pandas, NumPy, Matplotlib docs, FreeCodeCamp Python Data Analysis course, and Google Data Analytics Certificate.
+
 
 
 Happy Learning! 🎓
